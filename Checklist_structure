@@ -1,0 +1,11 @@
+Summary: Enter in cabinet
+Project:
+Component:
+Version:
+Environment:
+CheckLists:
+1. Enter in cabinet with login;		Result: Ok
+2. Enter in cabinet with email;		Result: Ok
+3. Enter in cabinet with phone number;	Result: False
+4. Enter in cabinet with certificate.	Result: Ok
+Status:
